@@ -1,0 +1,34 @@
+{
+  "grupos": [
+    {
+      "id": "fitness",
+      "nome": "Best Price Fitness",
+      "emoji": "💪",
+      "cor": "#16a34a",
+      "descricao": "Suplementos, roupas de treino, acessórios e equipamentos para treinar em casa ou na academia.",
+      "exemplos": ["Whey e creatina", "Halteres e elásticos", "Roupas de treino", "Garrafas e coqueteleiras"],
+      "link": "https://chat.whatsapp.com/ENf14I7KxURDDaUVp11eNd",
+      "ativo": true
+    },
+    {
+      "id": "automotiva",
+      "nome": "Best Price Estética Automotiva",
+      "emoji": "🚗",
+      "cor": "#2563eb",
+      "descricao": "Produtos de lavagem, polimento, ceras, aspiradores e acessórios para deixar o carro impecável.",
+      "exemplos": ["Shampoo e cera", "Politrizes", "Aspiradores portáteis", "Microfibras e acessórios"],
+      "link": "https://chat.whatsapp.com/CSCu64Q3Oju4Kl6d9PPOYi",
+      "ativo": true
+    },
+    {
+      "id": "pet",
+      "nome": "Best Price Pet",
+      "emoji": "🐶",
+      "cor": "#ea580c",
+      "descricao": "Ração, areia, petiscos, brinquedos e acessórios para cães e gatos.",
+      "exemplos": ["Ração premium", "Areia para gatos", "Petiscos", "Caminhas e brinquedos"],
+      "link": "https://chat.whatsapp.com/Kcvl7t0yYD5BccbybQNcUx",
+      "ativo": true
+    }
+  ]
+}
